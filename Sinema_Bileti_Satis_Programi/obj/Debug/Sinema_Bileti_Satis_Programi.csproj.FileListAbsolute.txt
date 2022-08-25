@@ -1,0 +1,15 @@
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\csharp_ornekler\Sinema_Bileti_Satis_Programi\bin\Debug\Sinema_Bileti_Satis_Programi.exe.config
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\csharp_ornekler\Sinema_Bileti_Satis_Programi\bin\Debug\Sinema_Bileti_Satis_Programi.exe
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\csharp_ornekler\Sinema_Bileti_Satis_Programi\bin\Debug\Sinema_Bileti_Satis_Programi.pdb
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\csharp_ornekler\Sinema_Bileti_Satis_Programi\obj\Debug\Sinema_Bileti_Satis_Programi.csproj.AssemblyReference.cache
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\csharp_ornekler\Sinema_Bileti_Satis_Programi\obj\Debug\Sinema_Bileti_Satis_Programi.Form1.resources
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\csharp_ornekler\Sinema_Bileti_Satis_Programi\obj\Debug\Sinema_Bileti_Satis_Programi.Properties.Resources.resources
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\csharp_ornekler\Sinema_Bileti_Satis_Programi\obj\Debug\Sinema_Bileti_Satis_Programi.csproj.GenerateResource.cache
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\csharp_ornekler\Sinema_Bileti_Satis_Programi\obj\Debug\Sinema_Bileti_Satis_Programi.csproj.CoreCompileInputs.cache
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\csharp_ornekler\Sinema_Bileti_Satis_Programi\obj\Debug\Sinema_Bileti_Satis_Programi.exe
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\csharp_ornekler\Sinema_Bileti_Satis_Programi\obj\Debug\Sinema_Bileti_Satis_Programi.pdb
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\csharp_ornekler\Sinema_Bileti_Satis_Programi\bin\Debug\Interop.WMPLib.dll
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\csharp_ornekler\Sinema_Bileti_Satis_Programi\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\csharp_ornekler\Sinema_Bileti_Satis_Programi\obj\Debug\Interop.WMPLib.dll
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\csharp_ornekler\Sinema_Bileti_Satis_Programi\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\csharp_ornekler\Sinema_Bileti_Satis_Programi\obj\Debug\Sinema_Bileti_Satis_Programi.csproj.ResolveComReference.cache
